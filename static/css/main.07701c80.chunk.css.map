@@ -1,0 +1,1 @@
+{"version":3,"sources":["Article.css","App.css"],"names":[],"mappings":"AAAA,QACE,WAAY,CACZ,YAAa,CACb,qBACF,CCJA,GACE,aACF","file":"main.07701c80.chunk.css","sourcesContent":["article {\n  width: 800px;\n  padding: 20px;\n  border: 1px solid gray;\n}\n","h1 {\n  color: #3e3e49;\n}\n"]}
